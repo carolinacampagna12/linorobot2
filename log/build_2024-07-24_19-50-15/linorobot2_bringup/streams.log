@@ -1,0 +1,55 @@
+[0.053s] Invoking command in '/home/ubuntu/linorobot2_ws/build/linorobot2_bringup': AMENT_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent/lib:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ubuntu/linorobot2_ws/src/linorobot2/linorobot2_bringup -DCMAKE_INSTALL_PREFIX=/home/ubuntu/linorobot2_ws/install/linorobot2_bringup
+[0.301s] -- The C compiler identification is GNU 9.4.0
+[0.525s] -- The CXX compiler identification is GNU 9.4.0
+[0.543s] -- Check for working C compiler: /usr/bin/cc
+[0.845s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.847s] -- Detecting C compiler ABI info
+[1.153s] -- Detecting C compiler ABI info - done
+[1.189s] -- Detecting C compile features
+[1.190s] -- Detecting C compile features - done
+[1.198s] -- Check for working CXX compiler: /usr/bin/c++
+[1.539s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.543s] -- Detecting CXX compiler ABI info
+[1.883s] -- Detecting CXX compiler ABI info - done
+[1.919s] -- Detecting CXX compile features
+[1.921s] -- Detecting CXX compile features - done
+[1.946s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.080s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.080s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.309s] -- Configuring done
+[3.317s] -- Generating done
+[3.321s] -- Build files have been written to: /home/ubuntu/linorobot2_ws/build/linorobot2_bringup
+[3.332s] Invoked command in '/home/ubuntu/linorobot2_ws/build/linorobot2_bringup' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent/lib:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/ubuntu/linorobot2_ws/src/linorobot2/linorobot2_bringup -DCMAKE_INSTALL_PREFIX=/home/ubuntu/linorobot2_ws/install/linorobot2_bringup
+[3.341s] Invoking command in '/home/ubuntu/linorobot2_ws/build/linorobot2_bringup': AMENT_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent/lib:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ubuntu/linorobot2_ws/build/linorobot2_bringup -- -j4 -l4
+[3.501s] Invoked command in '/home/ubuntu/linorobot2_ws/build/linorobot2_bringup' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent/lib:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/ubuntu/linorobot2_ws/build/linorobot2_bringup -- -j4 -l4
+[3.610s] Invoking command in '/home/ubuntu/linorobot2_ws/build/linorobot2_bringup': AMENT_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent/lib:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ubuntu/linorobot2_ws/build/linorobot2_bringup
+[3.646s] -- Install configuration: ""
+[3.646s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch
+[3.648s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch/custom_robot.launch.py
+[3.650s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch/lasers.launch.py
+[3.651s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch/default_robot.launch.py
+[3.652s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch/sensors.launch.py
+[3.653s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch/joy_teleop.launch.py
+[3.655s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch/depth.launch.py
+[3.656s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/launch/bringup.launch.py
+[3.658s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/config
+[3.659s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/config/fake_laser.yaml
+[3.661s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/config/joy.yaml
+[3.662s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/config/ydlidar.yaml
+[3.664s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/config/zed_common.yaml
+[3.666s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/ament_index/resource_index/package_run_dependencies/linorobot2_bringup
+[3.668s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/ament_index/resource_index/parent_prefix_path/linorobot2_bringup
+[3.670s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/environment/ament_prefix_path.sh
+[3.671s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/environment/ament_prefix_path.dsv
+[3.672s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/environment/path.sh
+[3.674s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/environment/path.dsv
+[3.675s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.bash
+[3.676s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.sh
+[3.677s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.zsh
+[3.678s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/local_setup.dsv
+[3.679s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/package.dsv
+[3.681s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/ament_index/resource_index/packages/linorobot2_bringup
+[3.682s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/cmake/linorobot2_bringupConfig.cmake
+[3.683s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/cmake/linorobot2_bringupConfig-version.cmake
+[3.684s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_bringup/share/linorobot2_bringup/package.xml
+[3.691s] Invoked command in '/home/ubuntu/linorobot2_ws/build/linorobot2_bringup' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs:/opt/ros/foxy LD_LIBRARY_PATH=/home/ubuntu/linorobot2_ws/install/micro_ros_agent/lib:/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/linorobot2_ws/install/micro_ros_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/ubuntu/linorobot2_ws/build/linorobot2_bringup

@@ -1,0 +1,44 @@
+[0.146s] Invoking command in '/home/ubuntu/linorobot2_ws/build/linorobot2_base': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ubuntu/linorobot2_ws/src/linorobot2/linorobot2_base -DCMAKE_INSTALL_PREFIX=/home/ubuntu/linorobot2_ws/install/linorobot2_base
+[1.337s] -- The C compiler identification is GNU 9.4.0
+[2.218s] -- The CXX compiler identification is GNU 9.4.0
+[2.244s] -- Check for working C compiler: /usr/bin/cc
+[2.715s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.719s] -- Detecting C compiler ABI info
+[3.168s] -- Detecting C compiler ABI info - done
+[3.214s] -- Detecting C compile features
+[3.216s] -- Detecting C compile features - done
+[3.226s] -- Check for working CXX compiler: /usr/bin/c++
+[3.735s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.735s] -- Detecting CXX compiler ABI info
+[4.262s] -- Detecting CXX compiler ABI info - done
+[4.306s] -- Detecting CXX compile features
+[4.308s] -- Detecting CXX compile features - done
+[4.331s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.515s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.515s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.535s] -- Configuring done
+[6.545s] -- Generating done
+[6.549s] -- Build files have been written to: /home/ubuntu/linorobot2_ws/build/linorobot2_base
+[6.573s] Invoked command in '/home/ubuntu/linorobot2_ws/build/linorobot2_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ubuntu/linorobot2_ws/src/linorobot2/linorobot2_base -DCMAKE_INSTALL_PREFIX=/home/ubuntu/linorobot2_ws/install/linorobot2_base
+[6.575s] Invoking command in '/home/ubuntu/linorobot2_ws/build/linorobot2_base': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/linorobot2_ws/build/linorobot2_base -- -j4 -l4
+[6.787s] Invoked command in '/home/ubuntu/linorobot2_ws/build/linorobot2_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/ubuntu/linorobot2_ws/build/linorobot2_base -- -j4 -l4
+[6.967s] Invoking command in '/home/ubuntu/linorobot2_ws/build/linorobot2_base': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/linorobot2_ws/build/linorobot2_base
+[7.011s] -- Install configuration: ""
+[7.015s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/config
+[7.015s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/config/ekf.yaml
+[7.017s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/ament_index/resource_index/package_run_dependencies/linorobot2_base
+[7.021s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/ament_index/resource_index/parent_prefix_path/linorobot2_base
+[7.024s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/environment/ament_prefix_path.sh
+[7.024s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/environment/ament_prefix_path.dsv
+[7.026s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/environment/path.sh
+[7.028s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/environment/path.dsv
+[7.028s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/local_setup.bash
+[7.029s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/local_setup.sh
+[7.030s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/local_setup.zsh
+[7.030s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/local_setup.dsv
+[7.031s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/package.dsv
+[7.032s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/ament_index/resource_index/packages/linorobot2_base
+[7.033s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/cmake/linorobot2_baseConfig.cmake
+[7.034s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/cmake/linorobot2_baseConfig-version.cmake
+[7.035s] -- Installing: /home/ubuntu/linorobot2_ws/install/linorobot2_base/share/linorobot2_base/package.xml
+[7.133s] Invoked command in '/home/ubuntu/linorobot2_ws/build/linorobot2_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/ubuntu/linorobot2_ws/build/linorobot2_base

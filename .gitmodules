@@ -1,0 +1,3 @@
+[submodule "build/micro_ros_agent/agent/src/xrceagent"]
+	path = build/micro_ros_agent/agent/src/xrceagent
+	url = https://github.com/eProsima/Micro-XRCE-DDS-Agent.git
